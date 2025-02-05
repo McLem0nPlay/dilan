@@ -1,4 +1,4 @@
-![изображение](https://github.com/user-attachments/assets/02229e9d-8b4f-45ef-a77a-95b6d9e98c24)
+![изображение](https://cdn.discordapp.com/attachments/1327805074436522024/1336498110590877707/Untitled343_20250203031106.png?ex=67a4065c&is=67a2b4dc&hm=8c6db368b6f9605ce66e5b73a6902c982b620451513169a25f3e4b3f69917e4d&)
 [![Discord](https://img.shields.io/discord/1294972684614242314.svg?color=%237289da&label=discord)]()
 
 `НА ДАННЫЙ МОМЕНТ БОТ НАХОДИТСЯ В РАЗРАБОТКЕ, ПОЭТОМУ ДАННЫЙ ФАЙЛ ОЧЕНЬ ПЛОХО РАСПИСАН!`
