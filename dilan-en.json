@@ -1,0 +1,139 @@
+{
+    "const": {
+        "just": "just",
+        "boobs": "boobs (.)(.)",
+        "ass": "butt ()()",
+        "pussy": "pussy 3",
+        "error": "Error",
+        "user_id": "User  ID: ",
+        "author": "Author",
+        "message_id": "Message ID: ",
+        "no_value": "`No value`"
+    },
+    "logs": {
+        "delete_log": {
+            "title": "Message Deleted",
+            "message": "Message",
+            "attachments": "Attachments"
+        },
+        "edit_log": {
+            "title": "Message Edited",
+            "old_message": "Old Message",
+            "new_message": "New Message",
+            "old_attachments": "Old Attachments",
+            "new_attachments": "New Attachments"
+        },
+        "ban_logs": {
+            "ban_title": "User  Banned",
+            "ban_description": "User  {user_mention} has been banned",
+            "unban_title": "User  Unbanned",
+            "unban_description": "User  {user_mention} has been unbanned"
+        },
+        "join_logs": {
+            "join_title": "User  Joined",
+            "join_description": "User  {user_mention} is now with us",
+            "leave_title": "User  Left the Server",
+            "leave_description": "User  {user_mention} has left the server"
+        },
+        "global_name_log": {
+            "title": "Global Name Change",
+            "description": "User  {user_mention} changed their global name",
+            "old_name": "Old Name",
+            "new_name": "New Name"
+        },
+        "username_log": {
+            "title": "Username Change",
+            "description": "User  {user_mention} changed their username",
+            "old_username": "Old Username",
+            "new_username": "New Username"
+        },
+        "avatar_log": {
+            "title": "Avatar Change",
+            "description": "User  {user_mention} changed their avatar"
+        },
+        "roles_log": {
+            "title": "Role Change",
+            "description": "User  {user_mention}'s roles have been changed",
+            "removed_roles": "Removed Roles",
+            "added_roles": "Added Roles",
+            "no_roles": "No Roles"
+        },
+        "mute_logs": {
+            "mute_title": "User  Muted",
+            "mute_description": "User  {user_mention} has been muted",
+            "unmute_title": "User  Unmuted",
+            "unmute_description": "User  {user_mention} has been unmuted",
+            "end_time": "End Time"
+        },
+        "server_avatar_log": {
+            "title": "Server Avatar Change",
+            "description": "Server avatar for user {user_mention} has been changed"
+        },
+        "nickname_log": {
+            "title": "Nickname Change",
+            "description": "Server nickname for user {user_mention} has been changed",
+            "old_nickname": "Old Nickname",
+            "new_nickname": "New Nickname"
+        }
+    },
+    "fun_channel": {
+        "set-remove": {
+            "set_title": "Channel Added",
+            "set_description": "{glob} fun channel has been added",
+            "remove_title": "Channel Removed",
+            "remove_description": "Fun channel has been removed",
+            "global": "Global",
+            "local": "Local",
+            "channel": "Channel"
+        },
+        "help": {
+            "title": "Help",
+            "description": "Command to select a \"fun\" channel.",
+            "usage": "Usage",
+            "example_1": "Example 1",
+            "example_2": "Example 2",
+            "example_3": "Example 3",
+            "example_command_1": "Sets a **local** fun channel",
+            "example_command_2": "Removes the fun channel. It can also be removed by using `d.funich_set` a second time",
+            "example_command_3": "Sets a **global** fun channel"
+        },
+        "info": {
+            "title": "Information",
+            "description": "This command sets an existing channel as a **fun channel**.",
+            "what_is_fun": "What is a fun channel?",
+            "global-local": "Global and Local Channel.",
+            "fun_definition": "A fun channel is a channel where Dylan can communicate with server members using **saved** messages.",
+            "global_definition": "A global fun channel is a channel that uses messages from **all servers**.",
+            "local_definition": "A local fun channel is a channel that uses messages only from **this server**.",
+            "warning": "Warning!",
+            "warning_text": "Do not share personal or secret information (personal data, passwords, etc.) in such channels."
+        }
+    },
+    "language": {
+        "set": {
+            "available_title": "Available Languages",
+            "language_success": "Language set\n`{language}` **| {flag}**",
+            "language_default": "Language changed to **default**",
+            "translate_need": "translator needed",
+            "changed_title": "Language Changed",
+            "language_name": "Language set to"
+        },
+        "help": {
+
+        }
+    },
+    "errors": {
+        "error": "Error",
+        "bot_channel_permission": "I do not have permission to send messages in the channel {channel_mention}.",
+        "missing_permissions": "You do not have enough permissions! Required: **{perms}**",
+        "channel_not_found": "Please specify a **valid** text channel.",
+        "language_error_description": "Please enter a **valid** language.",
+        "command_on_cooldown": "The command is on cooldown. Please wait **{seconds}** seconds.",
+        "command_not_found": "Such a command **does not exist!**",
+        "member_not_found": "User  not found!",
+        "command_error": "An error occurred while executing the command!",
+        "dm_message_error": "This command can only be used on the server!",
+        "guild_message_error": "This command can only be used in DMs!",
+        "unknown_error": "An unknown error occurred!"
+    }
+}
