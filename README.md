@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/Xfz74PM3/banner.png" alt="banner" width="600"/>
+<img src="https://i.ibb.co/JwqVW0qR/banner.png" alt="banner" width="600"/>
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/invite/fE3QXDNa9h)
 [![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram&logoColor=white)](https://t.me/limian_world)
